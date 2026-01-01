@@ -35,14 +35,6 @@ A multi-sensor hardware setup combining **GPS NEO-6M**, **MPU6050**, buzzers, an
 
 ---
 
-## 🛠️ Skills
-
-- **Languages:** C, C++, JavaScript, HTML, CSS  
-- **Embedded Tools:** Arduino IDE, ESP32, sensors, GPS modules  
-- **Technologies:** WiFi, Bluetooth, APIs, IoT platforms  
-- **Interests:** Robotics, Automation, UI Design, Smart Devices  
-
----
 
 ## 🔗 Contact
 
