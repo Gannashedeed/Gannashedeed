@@ -1,4 +1,14 @@
-## Hi there 👋
+My name is Ganna Mohammed, and I am a software developer and IoT engineer with a strong focus on building smart systems, modern web interfaces, and interactive technology solutions.
+
+- 🌐 I’m currently developing front-end applications using **HTML, CSS, and JavaScript**, with an emphasis on clean, responsive, and user-friendly design.
+- 💻 I write efficient and structured software in **C and C++**, particularly for embedded systems and hardware-integrated applications.
+- 🤖 I design and implement IoT and robotics solutions using **ESP32**, **Arduino**, a variety of sensors, GPS modules, and wireless communication technologies.
+- 🛰️ My recent work includes projects involving **GPS NEO-6M**, radar,relay,ir,robotics cars,fall-detection sensors, pulse monitoring, buzzers, and early-stage wearable device concepts.
+- 📡 I enjoy working with **WiFi/Bluetooth**, mobile API communication, and IoT platforms such as **RemoteXY** to build cloud-connected smart systems.
+- 🚀 My core interests include front-end development, embedded programming, smart wearable technology, automation, and innovative IoT solutions.
+- 🤝 I’m always open to collaborating on software projects, front-end interfaces, or IoT/embedded systems.  
+  ▫️ Contact: **gannashedeed@gmail.com **
+
 
 <!--
 **Gannashedeed/Gannashedeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
