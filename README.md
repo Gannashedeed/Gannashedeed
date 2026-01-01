@@ -1,13 +1,41 @@
-My name is Ganna Mohammed, and I am a software developer and IoT engineer with a strong focus on building smart systems, modern web interfaces, and interactive technology solutions.
+## 👩‍💻 About Me
 
-- 🌐 I’m currently developing front-end applications using **HTML, CSS, and JavaScript**, with an emphasis on clean, responsive, and user-friendly design.
-- 💻 I write efficient and structured software in **C and C++**, particularly for embedded systems and hardware-integrated applications.
-- 🤖 I design and implement IoT and robotics solutions using **ESP32**, **Arduino**, a variety of sensors, GPS modules, and wireless communication technologies.
-- 🛰️ My recent work includes projects involving **GPS NEO-6M**, radar,relay,ir,robotics cars,fall-detection sensors, pulse monitoring, buzzers, and early-stage wearable device concepts.
-- 📡 I enjoy working with **WiFi/Bluetooth**, mobile API communication, and IoT platforms such as **RemoteXY** to build cloud-connected smart systems.
-- 🚀 My core interests include front-end development, embedded programming, smart wearable technology, automation, and innovative IoT solutions.
-- 🤝 I’m always open to collaborating on software projects, front-end interfaces, or IoT/embedded systems.  
-  ▫️ Contact: **gannashedeed@gmail.com **
+I'm **Ganna Mohammed** — a **software developer** and **IoT engineer** passionate about creating smart systems, clean user interfaces, and innovative technology solutions.  
+I enjoy building front-end web applications and embedded systems using a blend of software and hardware tools.
+
+---
+
+## 🚀 Projects
+
+### **Smart Wearable Device Prototype**
+An IoT-based wearable powered by **ESP32** featuring fall detection, pulse monitoring, and GPS tracking.
+
+### **Front-End Dashboard UI**
+A clean and responsive dashboard built with **HTML**, **CSS**, and **JavaScript**.
+
+### **RemoteXY IoT Control System**
+A mobile-controlled IoT system that integrates sensors, Bluetooth/WiFi communication, and embedded **C/C++** programming.
+
+### **Arduino Multi-Sensor Platform**
+A multi-sensor hardware setup combining **GPS NEO-6M**, **MPU6050**, buzzers, and Bluetooth communication.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** C, C++, JavaScript, HTML, CSS  
+- **Embedded Tools:** Arduino IDE, ESP32, sensors, GPS modules  
+- **Technologies:** WiFi, Bluetooth, APIs, IoT platforms  
+- **Interests:** Robotics, Automation, UI Design, Smart Devices  
+
+---
+
+## 🔗 Contact
+
+You can reach me for collaborations or project discussions:  
+📧 **ganashedeed@gmail.com**
+
+
 
 
 <!--
